@@ -1,0 +1,6 @@
+a personalized AI chatbot using DeepSeek model! This chatbot provides motivation, productivity hacks, career advice, and emotional well-being tips – all in a sleek, modern UI.
+🔹 Workflow:
+1️⃣ User inputs a query 📩
+2️⃣ AI processes it using DeepSeek-R1 🤖
+3️⃣ Context-aware responses generated via LangChain 🔗
+4️⃣ Displayed in an intuitive Streamlit UI 🎨
