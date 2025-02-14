@@ -55,7 +55,4 @@ This project is a personalized **AI chatbot** built using **DeepSeek**, **LangCh
 - The chatbot continues the loop by providing tailored responses to any new inputs, adapting to the user's needs throughout the conversation.
 - The AI model becomes more effective over time, providing increasingly relevant advice based on accumulated context.
 
-### **Deepseek chat bot result**
-<img width="407" alt="1" src="file:///C:/Users/softtech/Downloads/Deepseek%20AI%20Assistent%20%20prompt%20response.jpg">
-
 ---
